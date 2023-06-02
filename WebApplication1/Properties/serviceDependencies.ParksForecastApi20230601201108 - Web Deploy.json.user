@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "apis2": {
+      "restored": true,
+      "restoreTime": "2023-06-01T18:59:13.9542805Z"
+    }
+  },
+  "parameters": {
+    "apis2.subscriptionId": {
+      "Name": "apis2.subscriptionId",
+      "Type": "subscription",
+      "Value": "44ef960a-ce12-4904-86e0-839d24600287"
+    },
+    "apis2.resourceGroupName": {
+      "Name": "apis2.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ApiResourceGroup"
+    }
+  }
+}

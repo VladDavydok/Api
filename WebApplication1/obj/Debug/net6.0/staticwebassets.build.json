@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K7rw8T0pIzROdiZf5rK/86qbLni5nL1ylyrTCkMGlpI=",
+  "Source": "ParksForecastApi",
+  "BasePath": "_content/ParksForecastApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apis2": {
+      "apiEndpoint": "https://parksforecastapiapii.azure-api.net/",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/ParksForecastApiapii/apis/ParksForecastApi",
+      "type": "apis.azure"
+    }
+  }
+}
